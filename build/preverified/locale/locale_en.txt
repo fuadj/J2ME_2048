@@ -1,0 +1,20 @@
+( New Game = New Game )
+( Language = Language )
+( Scores = Scores )
+( Help = Help)
+( Exit = Exit)
+( SCORE: = SCORE:)
+( BEST: = BEST:)
+( Quit = Quit)
+( Game Over = Game Over)
+( Wanna Restart? = To Restart)
+( Restart Process = Press 0.)
+( OK_COMMAND = OK)
+( Help_text = Swipe To Move Tiles.
+When two Tiles with
+the same Number touch,
+they merge into one.
+The Game is Over when
+The Board Fills up.
+The Game can be
+stopped by pressing 0.)

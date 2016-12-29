@@ -1,0 +1,17 @@
+﻿( New Game = አዲስ ጨዋታ )
+( Language = ቋንቋ )
+( Scores = ነጥቦች)
+( Help = እርዳታ)
+( Exit = ዉጣ)
+( SCORE: = የአሁኑ)
+( BEST: = ምርጡ)
+( Quit = ዉጣ)
+( Game Over = ጨዋታዉ አለቀ)
+( Wanna Restart? = ለመድገም)
+( Restart Process = 0ን ይጫኑ)
+( OK_COMMAND = እሺ)
+( Help_text = ወደ ሚፈልጉት አቅጣጫ
+ቁጥሮቹን ለመዉሰድ ቀስቶቹን ይጫኑ፡፡
+ተመሳሳይ ቁጥሮች ሲገናኙ ይደመራሉ፡፡
+ሰሌዳዉ ሲሞላ ጨዋታዉ ያበቃል፡፡
+0ን በመጫን ጨዋታዉን ማቆም ይቻላል፡፡) 

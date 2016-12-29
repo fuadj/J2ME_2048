@@ -1,0 +1,8 @@
+MIDlet-1: entryPoint,/icon.png,com.game.ui.entryPoint
+MIDlet-Vendor: Fuad Seffa
+MIDlet-Name: 2048
+MIDlet-Icon: icon.png
+MIDlet-Description: The Popular 2048 Game
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
